@@ -1,0 +1,77 @@
+Cloud Server
+-------------
+
+View and Authorize Medical Staff
+
+View and Authorize Patients
+
+Publish Patient Records 
+
+Patients Details Before Publishing 
+
+Patients Details After Publishing 
+
+View Patients Between Ages 
+
+View All Attackers 
+
+View All Assigned Roles 
+
+View Search Relative on patient details
+
+Users Patient Search Transaction 
+
+View All Patients and Records 
+
+Patients Age Limit Results 
+
+
+
+
+Medical Staff
+---------------
+My Profile
+
+My Search History 
+
+Search Patient Records
+
+View Patient Access Request's Responses
+
+
+Patient
+---------
+
+My Profile
+
+Add Patients Details
+
+Edit/Delete Patients Details 
+
+Verify Patients Details and Recover 
+
+
+Policy Manaager
+---------------
+
+Assign Policy
+
+
+Attribute Authority
+-------------------
+
+Provide Attribute Access Permission
+
+
+
+Members
+-----------
+
+
+
+Patient Name,Blood Group,Disease,Patient Age,Patient DOB,Patient Gender,Patient Mobile,Patient Email,Patient City,Patient Address,Pin Code,Select Document,File Name
+
+
+
+
+
