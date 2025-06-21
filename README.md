@@ -1,0 +1,2 @@
+# UNIFIED-FINE-GRAINED-ACCESS-CONTROL-FOR-PERSONAL-HEALTH-RECORDS-IN-CLOUD-COMPUTING
+ Objective : Developed a unified fine-grained access control system for managing personal health records in a  cloud computing environment. The system ensures that sensitive health data is securely accessed and shared  by authorized users only while providing flexibility for different access levels based on user roles and data  sensitivity.
